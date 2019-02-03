@@ -65,17 +65,6 @@ class GameEngine {
     this.update();
     this.draw();
   }
-
-  /////////
-  /////////
-  /////////
-  ///////// ADD FUNCTION HERE FOR
-  ///////// CONTROLING THE ANIMATION
-  /////////
-  /////////
-  /////////
-  /////////
-  /////////
 }
 
 function Timer() {
